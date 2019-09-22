@@ -1,6 +1,6 @@
 import React from 'react';
 
-fuction Error(){
+function Error(){
     return(
         <div>
             Error Page
