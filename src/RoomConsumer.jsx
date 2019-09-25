@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
-import RooomContext from './context';
-
+import React, { Component } from "react";
+import RooomContext from "./context";
 
 const RoomConsumer = RoomContext.Consumer;
 
